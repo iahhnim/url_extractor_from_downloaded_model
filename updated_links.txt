@@ -1,0 +1,13 @@
+https://civitai.com/api/download/models/350333::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/357928::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/428616::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/384673::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/360168::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/346589::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/375637::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/423594::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/374985::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/390764::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/373519::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/460363::Subfolder=face_lora_DFDSF
+https://civitai.com/api/download/models/192349::Subfolder=face_lora_DFDSF
