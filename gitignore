@@ -1,0 +1,26 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Output files
+output/
+cleaned_output/
+grouped_output/
+archive_old_outputs/
+updated_links.txt
+original_links.txt
+last_scan_root.txt
+
+# Editor/IDE folders
+.vscode/
+.idea/
+*.log
+
+# Archives
+*.zip
+*.7z
